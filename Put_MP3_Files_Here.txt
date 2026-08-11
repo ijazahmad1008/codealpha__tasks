@@ -1,6 +1,3 @@
-Bhai, put your downloaded full MP3 songs in this folder!
-
-Make sure the names match exactly:
 1. tum-hi-ho.mp3
 2. channa-mereya.mp3
 3. khairiyat.mp3
